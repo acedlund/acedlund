@@ -5,8 +5,8 @@ Prior to begining the GIT program, he has studied Photography at ASU’s Herberg
 
 
 
--![github stats](https://github-readme-stats.vercel.app/api?username=acedlund&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
--![github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acedlund&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+- ![github stats](https://github-readme-stats.vercel.app/api?username=acedlund&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+- ![github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acedlund&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <!--
 **acedlund/acedlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
