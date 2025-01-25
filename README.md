@@ -8,9 +8,9 @@ Experiences learning, using, and troubleshooting various common and proprietary 
 - 🌱 I’m currently learning HTML and Python
 - 🔭 I’m currently working on a surrealist photo project inspired by The Magnus Archives 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=acedlund&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) 
+![github stats](https://github-readme-stats.vercel.app/api?username=acedlund&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=33cccc&icon_color=00cc66&text_color=00cc66&bg_color=0,111111,333333 )
 
-![github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acedlund&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acedlund&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=33cccc&icon_color=00cc66&text_color=00cc66&bg_color=0,111111,333333 )
 <!--
 **acedlund/acedlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
