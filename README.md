@@ -1,7 +1,7 @@
 ## Hi there I'm Andrew 👋
 
 I am a student at ASU currently pursuing a Bachelor’s Degree in Graphic Information Technology, with a concentration in Full Stack Web Design. 
-Prior to begining the GIT program, I have studied Photography at ASU’s Herberger Institute for Design and the Arts, and obtained an Associate’s Degree in Small Group Management from Purdue University Global; which I obtained while serving in the Army. 
+Prior to beginning the GIT program, I have studied Photography at ASU’s Herberger Institute for Design and the Arts, and obtained an Associate’s Degree in Small Group Management from Purdue University Global; which I obtained while serving in the Army. 
 
 Experiences learning, using, and troubleshooting various common and proprietary systems have fueled a desire to better understand the coding languages used to design such programs and their interfaces. After graduation I aspire to combine coding with my passion for photography to create a program to aid in portfolio and project presentation. 
 
